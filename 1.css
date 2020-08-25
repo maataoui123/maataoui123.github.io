@@ -1,0 +1,34 @@
+body,html {
+	font-family: 'Do Hyeon', sans-serif;
+	size: 40px 
+	width:100%;
+	height:100%;
+	background: url(1.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+	color: #f59300;
+}
+button.btn {
+	font-weight:700;
+	border-radius: 300px
+}
+button.btn-xl {
+	padding:1rem 4rem;
+}
+button.btn-primary{
+	background-color:#de1c71;
+	border-color:#de1c71;
+}
+button.btn-primary:hover{
+	background-color:#691642;
+	border-color:#691642;
+	border-width:4px;
+}
+div.buffer{
+	height:150px; 
+}
